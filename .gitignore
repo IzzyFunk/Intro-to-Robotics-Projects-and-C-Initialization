@@ -1,0 +1,21 @@
+# CMake build directories and artifacts
+build/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+install/
+compile_commands.json
+
+# Compiled Object files and Executables
+*.o
+*.obj
+*.so
+*.dll
+*.a
+*.lib
+*.out
+*.exe
+
+# Editor configurations
+.vscode/
